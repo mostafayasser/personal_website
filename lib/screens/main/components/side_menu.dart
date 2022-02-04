@@ -104,6 +104,7 @@ class SideMenu extends StatelessWidget {
 void _downloadCV() {
   AnchorElement element =
       new AnchorElement(href: "assets/Mostafa-Yasser-CV-Flutter.pdf");
+  //TODO
   element.download = "Mostafa-Yasser-Flutter-CV";
   element.click();
 }

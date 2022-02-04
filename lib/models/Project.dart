@@ -23,9 +23,9 @@ List<Project> demoProjects = [
   ),
   Project(
     title: "QatarCyclists social media app",
-    image: "assets/images/qatarcyclists.jpg",
+    image: "assets/images/qatar.jpg",
     description:
-        "Qatar Cyclists a social media app for cyclists in Qatar in which they can add and join events and they can chat with other users and many more features. It was based on APIs for data and firebase for the chat part.",
+        "Qatar Cyclists is a social media app for cyclists in Qatar in which they can add and join events and they can chat with other users and many more features. It was based on APIs for data and firebase for the chat part.",
     iosLink: "https://apps.apple.com/eg/app/qatar-cyclists/id1530453512",
     androidLink:
         "https://play.google.com/store/apps/details?id=com.webzone.qatarcyclistscenter&hl=en&gl=US",
